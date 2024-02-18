@@ -5,10 +5,10 @@ my_book = 'my_book.txt'
 my_writing_today = 'writing_today.txt'
 
 def extend_book(nb_commit=2):
-    with open(my_book) as f:
+    with open(my_book, encoding='utf8') as f:
         current_content = f.read()
         
-    idx = len(current_content.split())
+    idx = len(current_content.split('\n'))
     
     for _ in range(nb_commit):
         content = '\n'.join( orig_book[idx:idx+30] )
