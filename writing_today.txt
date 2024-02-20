@@ -1,59 +1,59 @@
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
+Gutenberg-tm trademark, and any other party distributing a Project
 
-additional terms imposed by the copyright holder. Additional terms
+Gutenberg-tm electronic work under this agreement, disclaim all
 
-will be linked to the Project Gutenberg-tm License for all works
+liability to you for damages, costs and expenses, including legal
 
-posted with the permission of the copyright holder found at the
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 
-beginning of this work.
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
 
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
 
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 
-License terms from this work, or any files containing a part of this
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
-work or any other work associated with Project Gutenberg-tm.
-
-
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-
-electronic work, or any part of this electronic work, without
-
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-
-active links or immediate access to the full terms of the Project
-
-Gutenberg-tm License.
+DAMAGE.
 
 
 
-1.E.6. You may convert to and distribute this work in any binary,
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
-compressed, marked up, nonproprietary or proprietary form, including
+defect in this electronic work within 90 days of receiving it, you can
 
-any word processing or hypertext form. However, if you provide access
+receive a refund of the money (if any) you paid for it by sending a
 
-to or distribute copies of a Project Gutenberg-tm work in a format
+written explanation to the person you received the work from. If you
 
-other than "Plain Vanilla ASCII" or other format used in the official
+received the work on a physical medium, you must return the medium
 
-version posted on the official Project Gutenberg-tm web site
+with your written explanation. The person or entity that provided you
 
-(www.gutenberg.org), you must, at no additional cost, fee or expense
+with the defective work may elect to provide a replacement copy in
 
-to the user, provide a copy, a means of exporting a copy, or a means
+lieu of a refund. If you received the work electronically, the person
 
-of obtaining a copy upon request, of the work in its original "Plain
+or entity providing it to you may choose to give you a second
 
-Vanilla ASCII" or other form. Any alternate format must include the
+opportunity to receive the work electronically in lieu of a refund. If
 
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+the second copy is also defective, you may demand a refund in writing
+
+without further opportunities to fix the problem.
 
 
 
-1.E.7. Do not charge a fee for access to, viewing, displaying,
+1.F.4. Except for the limited right of replacement or refund set forth
 
-performing, copying or distributing any Project Gutenberg-tm works
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+
+
+1.F.5. Some states do not allow disclaimers of certain implied
