@@ -1,59 +1,59 @@
-Gutenberg-tm trademark, and any other party distributing a Project
+warranties or the exclusion or limitation of certain types of
 
-Gutenberg-tm electronic work under this agreement, disclaim all
+damages. If any disclaimer or limitation set forth in this agreement
 
-liability to you for damages, costs and expenses, including legal
+violates the law of the state applicable to this agreement, the
 
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+agreement shall be interpreted to make the maximum disclaimer or
 
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+limitation permitted by the applicable state law. The invalidity or
 
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+unenforceability of any provision of this agreement shall not void the
 
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-
-DAMAGE.
+remaining provisions.
 
 
 
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 
-defect in this electronic work within 90 days of receiving it, you can
+trademark owner, any agent or employee of the Foundation, anyone
 
-receive a refund of the money (if any) you paid for it by sending a
+providing copies of Project Gutenberg-tm electronic works in
 
-written explanation to the person you received the work from. If you
+accordance with this agreement, and any volunteers associated with the
 
-received the work on a physical medium, you must return the medium
+production, promotion and distribution of Project Gutenberg-tm
 
-with your written explanation. The person or entity that provided you
+electronic works, harmless from all liability, costs and expenses,
 
-with the defective work may elect to provide a replacement copy in
+including legal fees, that arise directly or indirectly from any of
 
-lieu of a refund. If you received the work electronically, the person
+the following which you do or cause to occur: (a) distribution of this
 
-or entity providing it to you may choose to give you a second
+or any Project Gutenberg-tm work, (b) alteration, modification, or
 
-opportunity to receive the work electronically in lieu of a refund. If
+additions or deletions to any Project Gutenberg-tm work, and (c) any
 
-the second copy is also defective, you may demand a refund in writing
-
-without further opportunities to fix the problem.
+Defect you cause.
 
 
 
-1.F.4. Except for the limited right of replacement or refund set forth
-
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 
 
-1.F.5. Some states do not allow disclaimers of certain implied
+Project Gutenberg-tm is synonymous with the free distribution of
+
+electronic works in formats readable by the widest variety of
+
+computers including obsolete, old, middle-aged and new computers. It
+
+exists because of the efforts of hundreds of volunteers and donations
+
+from people in all walks of life.
+
+
+
+Volunteers and financial support to provide volunteers with the
+
+assistance they need are critical to reaching Project Gutenberg-tm's
